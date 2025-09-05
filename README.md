@@ -1,4 +1,4 @@
-# Counter app
+# Counter App
 ## Uses React + Vite
 
 This is a small project to learn about Usestate and event handling.

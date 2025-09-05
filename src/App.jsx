@@ -19,7 +19,7 @@ function App() {
               </p>
               <div className="card-actions flex justify-center gap-15">
                 <button className="btn btn-primary" onClick={() => setCount(count + 1)}>+</button>
-                <button className="btn btn-primary hover:border-white">-</button>
+                <button className="btn btn-primary" onClick={() => setCount(count - 1)}>-</button>
               </div>
             </div>
           </div>

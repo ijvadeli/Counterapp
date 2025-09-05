@@ -1,4 +1,7 @@
 @import "tailwindcss";
+@plugin "daisyui" {
+  themes: night --default, dark, light
+}
 
 body {
   padding: 0;
